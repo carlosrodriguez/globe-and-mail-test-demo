@@ -1,0 +1,19 @@
+{
+  "name": "Globe and Mail aXe Testing Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "jasmine init",
+    "test": "jasmine spec/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axe-core": "^2.0.5",
+    "axe-webdriverjs": "^0.2.0",
+    "jasmine": "^2.4.1",
+    "selenium-webdriver": "^2.48.2"
+  },
+  "dependencies": {}
+}
