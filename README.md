@@ -21,3 +21,5 @@ In another tab, run the tests:
 ```
 npm test
 ```
+
+Tests can be found in [spec/test.js](spec/test.js).
